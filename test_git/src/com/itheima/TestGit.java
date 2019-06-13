@@ -7,4 +7,10 @@ public class TestGit {
         System.out.println("333333");
         System.out.println("444444");
     }
+
+    public void test(){
+        int i=10;
+        i+=100;
+    }
+
 }
